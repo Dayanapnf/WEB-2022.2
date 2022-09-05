@@ -1,0 +1,95 @@
+body {
+  padding: 10px;
+  margin: 5px;
+}
+
+.borda {
+  border: solid thin rgb(224, 224, 224);
+  background-color: white;
+  border-radius: 1em;
+  box-shadow: rgb(212, 212, 212) 0.1em 0.1em 0.1em;
+}
+
+.botao:hover{
+  background-color: rgb(126, 126, 126);
+}
+
+a {
+  text-decoration: none;
+  margin: 0;
+}
+
+.mn-15 {
+  margin-left: 15px;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.publicacao{
+  color: rgb(15, 20, 25);
+}
+
+.publicacao:hover{
+  background-color: rgba(15, 25, 20, 0.1);
+  border-radius: 10px;
+}
+
+.nav-item {
+  color: rgb(15, 20, 25);
+  list-style-type: none;
+}
+
+.nav li:hover {
+  background-color: rgba(15, 25, 20, 0.1);
+  border-radius: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.follow {
+  color: rgb(83, 100, 113);
+  margin: 3px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.estatistica {
+  color: rgb(15, 20, 25);
+  margin: 3px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.acoes {
+  color: rgb(83, 100, 113);
+}
+
+.azul:hover {
+  color: rgba(29, 155, 240, 1);
+  background: rgba(29, 155, 240, 0.1);
+  border-radius: 10px;
+}
+
+.vermelho:hover {
+  background: rgba(249, 24, 128, 0.1);
+  color: rgba(249, 24, 128, 1);
+  border-radius: 10px;
+}
+
+.verde:hover {
+  background: rgba(0, 186, 124, 0.1);
+  color: rgba(0, 186, 124, 1);
+  border-radius: 10px;
+}
