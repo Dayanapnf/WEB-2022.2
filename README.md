@@ -5,7 +5,7 @@
 <h1 align="center"> Disciplina de Desenvolvimento Web </h1>
 Estarei disponibilizando aqui os meus projetos desenvolvidos durante o aprendizado durante a cadeira.
 
-### PROJETOS/ATIVIDADES✔️  
+### PROJETOS/ATIVIDADES ✔️  
 
 1. Tzeeter
     - Rede social
